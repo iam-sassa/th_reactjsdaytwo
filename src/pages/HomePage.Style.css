@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Josefin+Sans&family=Nanum+Pen+Script&family=Patrick+Hand&family=Secular+One&display=swap');
+
+* {
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+/* div:empty::before {
+    color: grey;
+  }
+  div[data-placeholder]:not([data-placeholder=""]):empty::before {
+    content: attr(data-placeholder);
+  } */
